@@ -11,4 +11,4 @@ rmd2jupyter <- function( filename, path=getwd() )
 # download the example.Rmd file from this repository
 # setwd(...) to where the example.Rmd file is located
 
-rmd2jupyter( "sample_notebook.Rmd" )
+rmd2jupyter( "ipynb_convert/sample_notebook.Rmd" )
